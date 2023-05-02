@@ -1,1 +1,10 @@
 /* My Styles */
+
+
+/* Vertical and Horizontal aligment of container */
+body {
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    height: 100vh;
+ }
