@@ -1,2 +1,2 @@
 // My Scripts
-console.log('Hello World, this is NOT ME!!!!!');
+console.log('Hello World!');
