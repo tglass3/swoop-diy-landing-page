@@ -4,9 +4,9 @@ console.log('👍 JS Connected');
 const beegees = ['bg0', 'bg1', 'bg2'];
 const limitB = beegees.length;
 const randNumB = Math.floor(Math.random()*limitB);
-const swoops = ['https://assets.codepen.io/16425/swoop.png',
-                'https://assets.codepen.io/16425/swoop+2.jpg',
-                'https://assets.codepen.io/16425/swoop3.jpg'];
+const swoops = ['img/swoop.png',
+                'img/swoop+2.webp',
+                'img/swoop3.webp'];
 const limitS = swoops.length;
 const randNumS = Math.floor(Math.random()*limitS);
 
